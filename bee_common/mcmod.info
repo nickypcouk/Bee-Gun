@@ -1,0 +1,19 @@
+[
+{
+  "modid": "BeeGun",
+  "name": "Bee Gun Mod",
+  "description": "The Mighty BEE GUN mod of awesome.",
+  "version": "0.0.1",
+  "credits": "BEES",
+  "logoFile": "/gfx/buildcraft/logo.png",
+  "mcversion": "",
+  "url": "https://github.com/nickypcouk/Bee-Gun",
+  "updateUrl": "",
+  "authors": "nickypcouk",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": [
+     
+  ]
+}
+]
